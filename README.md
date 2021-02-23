@@ -9,8 +9,6 @@
 * Maintaining community repos (🍪[cookies](https://github.com/react-native-community/cookies), 🎤[voice](https://github.com/react-native-community/voice), 💻[webview](https://github.com/react-native-community/react-native-webview))
 * Building new modules (⭐️[react-native-app-review](https://github.com/safaiyeh/react-native-app-review))
 
-Specifics of what I am currently working on:
-https://trello.com/b/1ZdwxzBO/side-projects
 
 📫 How to reach me:  
 🐦 https://twitter.com/safaiyeh  
