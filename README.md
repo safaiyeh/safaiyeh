@@ -4,7 +4,7 @@
 
 
 ### 👨🏽‍💻 Current work:
-* Building web applications at 📈 [Sumo Logic](https://www.sumologic.com/blog/new-dashboards)
+* Building mobile applications at 📈 [Afterpay](https://afterpay.com)
 * Triaging ⚛️ React Native issues
 * Maintaining community repos (🍪[cookies](https://github.com/react-native-community/cookies), 🎤[voice](https://github.com/react-native-community/voice), 💻[webview](https://github.com/react-native-community/react-native-webview))
 * Building new modules (⭐️[react-native-app-review](https://github.com/safaiyeh/react-native-app-review))
